@@ -1,11 +1,16 @@
 # Creación del Servidor (BancoAPI)
 Pasos:
-En Visual Studio 2026, crea un nuevo proyecto de tipo ASP.NET Core Web API.
 
-Configura el proyecto con el nombre BancoAPI.
+1. En Visual Studio 2026, crea un nuevo proyecto de tipo ASP.NET Core Web API.
 
-Selecciona .NET 10.0 como framework.
 
-Asegúrate de instalar el paquete NuGet Microsoft.Data.SqlClient para manejar la base de datos SQL Server.
+2. Configura el proyecto con el nombre BancoAPI.
 
-Código del Servidor (Program.cs):
+
+3. Selecciona .NET 10.0 como framework.
+
+
+4. Asegúrate de instalar el paquete NuGet Microsoft.Data.SqlClient para manejar la base de datos SQL Server.
+
+
+5. Código del Servidor (Program.cs):
